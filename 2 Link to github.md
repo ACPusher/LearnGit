@@ -17,7 +17,16 @@ git push -u origin master
 git push origin master
 ```
 
+这里也可以推送别的分支，如
+
+```
+git push origin dev
+```
+
+
+
 ## 远程到本地
+
 使用命令如下，这会在当前路径下，创建文件夹。
 ```
 git clone https://github.com/ACPusher/LearnGit.git
